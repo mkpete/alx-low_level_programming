@@ -1,1 +1,1 @@
-Shell C scripts compiled by gcc
+Shell C scripts compiled by gcc.
